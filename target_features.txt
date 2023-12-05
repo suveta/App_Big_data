@@ -1,0 +1,3 @@
+Target column: cnt
+Numerical features: ['temp', 'atemp', 'hum', 'windspeed', 'hr', 'weekday']
+Categorical features: ['season', 'holiday', 'workingday']
